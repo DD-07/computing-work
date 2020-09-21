@@ -1,4 +1,5 @@
 Lyrics
+```
 We're no strangers to love
 You know the rules and so do I
 A full commitment's what I'm thinking of
@@ -55,3 +56,4 @@ Never gonna give you up
 Never gonna let you down
 Never gonna run around and desert you
 Never gonna make you cry
+```
